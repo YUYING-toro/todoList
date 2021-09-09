@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: rgb(233, 178, 75);
+    width: 100%;
+    height: 100px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+header h1{
+    padding-top: 20px;
+    color: white;
+}
+#app{
+    width: 80%;
+    margin: 0 auto;
+}
+.add, .add::after{
+    background-color: rgb(233, 178, 75);
+    border-color: rgb(236, 173, 56);
+}
+.add:hover{
+    background-color: rgb(255, 166, 0);
+    border-color: rgb(236, 173, 56);
+}
+.add::after
+
+.completed {
+    text-decoration: line-through
+  }
